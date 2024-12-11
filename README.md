@@ -28,7 +28,7 @@ This project uses CNN and machine learning models for image classification. It a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/JayRathod341997/DeepLensX.git
+   git clone https://github.com/Snehith12F2/Implementation-of-ML-model-for-image-classification/tree/main
    cd Implementation-of-ML-model-for-image-classification
 2. **Create and activate a virtual environment**:
     ```bash
